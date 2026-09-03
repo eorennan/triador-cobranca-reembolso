@@ -1,0 +1,16 @@
+{
+  "name": "triador-cobranca-reembolso",
+  "version": "1.0.0",
+  "type": "module",  
+  "description": "Ferramenta de automação para triagem de cobrança e reembolso",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js --entrada dados/solicitacoes.xlsx --preview"
+  },
+  "dependencies": {
+    "chalk": "^6.0.0",
+    "xlsx": "^0.18.5",
+    "yargs": "^18.1.0"
+  }
+}

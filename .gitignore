@@ -1,0 +1,103 @@
+# ============================================
+# DEPENDÊNCIAS
+# ============================================
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ============================================
+# ARQUIVOS GERADOS PELO PROJETO
+# ============================================
+resultados/
+*.xlsx
+*.xls
+*.csv
+!dados/.gitkeep
+!resultados/.gitkeep
+
+# ============================================
+# ARQUIVOS DE SISTEMA (Windows)
+# ============================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.temp
+
+# ============================================
+# ARQUIVOS DE SISTEMA (macOS)
+# ============================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ============================================
+# ARQUIVOS DE SISTEMA (Linux)
+# ============================================
+*~
+.directory
+*.swp
+*.swo
+*.swn
+
+# ============================================
+# EDITORES E IDEs
+# ============================================
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.code-workspace
+
+# ============================================
+# LOGS E ARQUIVOS DE DEBUG
+# ============================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ============================================
+# VARIÁVEIS DE AMBIENTE
+# ============================================
+.env
+.env.local
+.env.*.local
+
+# ============================================
+# ARQUIVOS DE PACOTES
+# ============================================
+*.tgz
+*.gz
+*.zip
+*.rar
+
+# ============================================
+# ARQUIVOS DE BACKUP
+# ============================================
+*.bak
+*.backup
+*.old
+
+# ============================================
+# ARQUIVOS DO PROJETO (DADOS SENSÍVEIS)
+# ============================================
+dados/*.xlsx
+!dados/.gitkeep
+resultados/*.xlsx
+!resultados/.gitkeep
+
+# ============================================
+# TESTES E COBERTURA
+# ============================================
+coverage/
+.nyc_output/
+test-results/
