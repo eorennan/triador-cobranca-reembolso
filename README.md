@@ -51,7 +51,7 @@ O **Triador de Cobrança e Reembolso** automatiza esse fluxo: lê planilhas Exce
 
 ```bash
 # Clone o repositório
-git clone https://github.com/<seu-usuario>/triador-cobranca-reembolso.git
+git clone https://github.com/<eorennan/triador-cobranca-reembolso.git
 cd triador-cobranca-reembolso
 
 # Instale as dependências
