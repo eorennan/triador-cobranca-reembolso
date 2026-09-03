@@ -156,8 +156,8 @@ Licenciamento para fins educacionais — Copyright © 2026
 
 **Renan Costa Pereira**
 
-[![GitHub](https://img.shields.io/badge/GitHub-perfil-181717?logo=github)]([https://github.com/<seu-usuario>](https://github.com/eorennan))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-perfil-0A66C2?logo=linkedin)](linkedin.com/in/renan-costa-pereira-5354ab3b9)
+[![GitHub](https://img.shields.io/badge/GitHub-perfil-181717?logo=github)](https://github.com/eorennan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-perfil-0A66C2?logo=linkedin)](https://www.linkedin.com/in/renan-costa-pereira-5354ab3b9)
 
 ---
 
