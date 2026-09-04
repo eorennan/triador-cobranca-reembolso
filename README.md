@@ -10,7 +10,7 @@
 
 ## Sobre o projeto
 
-Em equipes de atendimento ao cliente, a análise manual de planilhas de cobrança e reembolso — e a redação repetitiva de mensagens para cada solicitação — consome horas do dia útil.
+Em equipes de atendimento ao cliente, a análise manual de planilhas de cobrança e reembolso e a redação repetitiva de mensagens para cada solicitação, o que consome horas do dia útil.
 
 O **Triador de Cobrança e Reembolso** automatiza esse fluxo: lê planilhas Excel com as solicitações pendentes, aplica regras de negócio para classificar a prioridade de cada uma e gera automaticamente mensagens personalizadas, prontas para copiar e enviar ao cliente. O resultado é um ganho direto de eficiência operacional, com menos tempo gasto em tarefas repetitivas e mais consistência nas respostas enviadas.
 
