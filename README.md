@@ -78,7 +78,6 @@ A planilha deve conter as seguintes colunas:
 
 | Comando | Descrição |
 |---|---|
-| `node criar_teste.js` | Gera uma planilha de exemplo para testes |
 | `node src/index.js --entrada <arquivo>` | Processa a planilha e gera arquivo de saída |
 | `node src/index.js --entrada <arquivo> --preview` | Processa a planilha e exibe o resultado no terminal, sem salvar |
 | `node src/index.js --entrada <arquivo> --saida <nome>` | Processa e salva o resultado com nome personalizado |
@@ -86,9 +85,6 @@ A planilha deve conter as seguintes colunas:
 ### Exemplos
 
 ```bash
-# Criar planilha de teste
-node criar_teste.js
-
 # Processar planilha
 node src/index.js --entrada dados/solicitacoes.xlsx
 
@@ -114,7 +110,6 @@ triador-cobranca-reembolso/
 │   └── config.js         # Constantes e regras
 ├── dados/                # Planilhas de entrada
 ├── resultados/           # Planilhas geradas
-├── criar_teste.js        # Script para gerar planilha de exemplo
 ├── .gitignore
 ├── package.json
 └── README.md
